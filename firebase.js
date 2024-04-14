@@ -9,12 +9,6 @@ import { FirebaseRecaptchaVerifierModal, FirebaseRecaptchaBanner } from 'expo-fi
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 export const firebaseConfig = {
-  apiKey: "AIzaSyAHoMhDaxZBG9_sP_NXJap5HWRijnCIaIg",
-  authDomain: "anichat-9cc48.firebaseapp.com",
-  projectId: "anichat-9cc48",
-  storageBucket: "anichat-9cc48.appspot.com",
-  messagingSenderId: "626614683974",
-  appId: "1:626614683974:web:2df1c9e02d3bfe2186bd47",
 };
 
 // Initialize Firebase
